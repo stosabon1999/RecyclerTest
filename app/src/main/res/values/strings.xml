@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerTest</string>
+    <string name="undefined">undefined</string>
+    <string name="undefined_two">undefined_two</string>
+    <string name="undefined_three">undefinedThree</string>
+</resources>
